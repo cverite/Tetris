@@ -1,0 +1,7 @@
+membres du groupe : Aurélie Ottavi et Céline Vérité
+titre du projet : tetris
+
+guide d'installation du programme : 
+pour que les sons puissent être lu correctement, les fichiers et les dossiers devront etre mis dans un dossier src (sinon il faut changer la variable cheminAccèsCourant dans les classes MortSon et MonThread )
+
+pour plus d'informations concernant l'utilisation du programme, veuillez consulter notre rapport
